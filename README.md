@@ -1,2 +1,2 @@
-# Portfolio
-A handful of portfolio designs crafted in Adobe XD
+# Adobe-XD-Designs
+A bunch of designs for apps and web.
